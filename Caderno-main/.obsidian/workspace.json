@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "52599f0ce9e0334b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b0c87ff6dfb5f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caa5f638bc081386",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fisica/mruv.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "mruv.excalidraw"
+            }
+          },
+          {
+            "id": "03adff73207ab8f5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fisica/mruv.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "mruv.excalidraw"
+            }
+          },
+          {
+            "id": "f4f0025c8a59c5fd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fisica/Forca eletrica.excalidraw.md.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Forca eletrica.excalidraw.md"
+            }
+          },
+          {
+            "id": "8333ad53b797a071",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fisica/Forca eletrica.excalidraw.md.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Forca eletrica.excalidraw.md"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5395facf0ebf7910",
+    "type": "split",
+    "children": [
+      {
+        "id": "064051aeec7e187b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9f312d9e1206e91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "cd8ba37f2fc9fe22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "ce845185d2460bba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05874f9cbf11b9be",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d0152c40e19c0ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c82d3b10287b3da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fisica/mruv.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "1b227c46969437c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fisica/mruv.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "21c328d59b1c2c72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1c68d8e3200ea570",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "1a60c64e4d962442",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fisica/mruv.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "8333ad53b797a071",
+  "lastOpenFiles": [
+    "Fisica/mruv.excalidraw.md",
+    "Fisica/gravitacao.md",
+    "Fisica/Forca eletrica.excalidraw.md.md",
+    "Pasted Image 20260901183517_209.png",
+    "Fisica/Sem título 1.md",
+    "Excalidraw",
+    "Fisica/Sem título.md",
+    "Fisica/mruv.png",
+    "Fisica/mruv.png.md",
+    "Fisica/mruv.excalidraw.png.md",
+    "Matemática/Drawing 2026-09-01 14.33.34.excalidraw.md",
+    "Matemática/trigonometria.md",
+    "crie um link.md",
+    "readme.md"
+  ]
+}
